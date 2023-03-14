@@ -13,5 +13,7 @@ This repository contains Matlab code to read in and visualize point cloud and ra
 
 
 Process these jobs on OpenTopography to generate example point cloud (.las or .laz files) or DEMs (.tiff files). 
+
 Salt Lake City(https://doi.org/10.5069/G9TH8JNQ): https://portal.opentopography.org/lidarDataset?opentopoID=OTLAS.122014.26912.1&minX=-111.88989256858865&minY=40.77602500627361&maxX=-111.88666950298132&maxY=40.77977572159702
+
 Canyonlands National Park: (https://doi.org/10.5069/G9X34VNQ): https://portal.opentopography.org/lidarDataset?opentopoID=OTLAS.072020.6341.1&minX=-109.92892645717178&minY=38.10798288429967&maxX=-109.90619966646437&maxY=38.12079524373647
