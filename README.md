@@ -3,7 +3,7 @@
 # Topography_Matlab
 Chelsea Scott: cpscott1@asu.edu(corresponding author)
 
-This repository contains Matlab code to read in and visualize point cloud and raster topography data. There are three scripts: 
+This repository contains Matlab code to read in and visualize point cloud and raster topography data in Matlab. There are three scripts: 
 
 - point_cloud_lasdata.m: Use this script and the Mathwork's file exchange lasdata (https://www.mathworks.com/matlabcentral/fileexchange/48073-lasdata) to load point cloud topography into Matlab. This is recommended if you do not have access to the Matlab's lidar toolbox. 
 
