@@ -15,11 +15,11 @@ There are two ways to access the data:
 
 1) Download processed data from OpenTopography:
 
-Point cloud data in las format (for point_cloud_lasdata.m): https://object.cloud.sdsc.edu:443/v1/AUTH_opentopography/www/education/MatlabTopo/Utah_state_capitol.las
+Point cloud data in las format (for point_cloud_lasdata.m): https://object.cloud.sdsc.edu/v1/AUTH_opentopography/www/education/MatlabTopo/Utah_state_capitol.las
 
-Point cloud data in laz format (for point_cloud_matlab.m): https://object.cloud.sdsc.edu:443/v1/AUTH_opentopography/www/education/MatlabTopo/Utah_state_capitol.laz
+Point cloud data in laz format (for point_cloud_matlab.m): https://object.cloud.sdsc.edu/v1/AUTH_opentopography/www/education/MatlabTopo/Utah_state_capitol.laz
 
-Geotif (for read_visualize_raster.m) : https://object.cloud.sdsc.edu:443/v1/AUTH_opentopography/www/education/MatlabTopo/Utah_grabens.tif
+Geotif (for read_visualize_raster.m) : https://object.cloud.sdsc.edu/v1/AUTH_opentopography/www/education/MatlabTopo/Utah_grabens.tif
 
 2) Process these jobs on OpenTopography to generate a point cloud (.las or .laz files) or DEM (.tif files). Note that in the Matlab scripts, the topography data files from OpenTopography are renamed with local significance. 
 
