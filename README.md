@@ -12,8 +12,8 @@ This repository contains Matlab code to read in and visualize point cloud and ra
 - read_visualize_raster.m: Use this script to read in raster datasets such as digital elevation models, make hillshades (requires Mathwork's file exchange: https://www.mathworks.com/matlabcentral/fileexchange/14863-hillshade), and make gradient maps (requires Mathwork's file exchange: https://www.mathworks.com/matlabcentral/fileexchange/18655-gradient8?s_tid=srchtitle). 
 
 There are two ways to access the data: 
-1) 
-Point cloud data in las format (for point_cloud_lasdata.m): https://object.cloud.sdsc.edu:443/v1/AUTH_opentopography/www/education/MatlabTopo/Utah_state_capitol.las
+
+1) Point cloud data in las format (for point_cloud_lasdata.m): https://object.cloud.sdsc.edu:443/v1/AUTH_opentopography/www/education/MatlabTopo/Utah_state_capitol.las
 Point cloud data in laz format (for point_cloud_matlab.m): https://object.cloud.sdsc.edu:443/v1/AUTH_opentopography/www/education/MatlabTopo/Utah_state_capitol.laz
 Geotif (for read_visualize_raster.m) : https://object.cloud.sdsc.edu:443/v1/AUTH_opentopography/www/education/MatlabTopo/Utah_grabens.tif
 
